@@ -1,0 +1,17 @@
+# Dependencies
+web/node_modules/
+
+# Build output
+web/dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+
+# Preset file (created in working folder)
+tag-edit-presets.json
