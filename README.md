@@ -3,7 +3,7 @@
 Github Pages: https://inorinatsume.github.io/TagGUI_web/
 
 TagGUI Web is a browser-based tag editor for image caption files. It is built
-on a modular TypeScript core and a Svelte UI.
+on a modular TypeScript core and a Svelte UI. Don't have auto-caption function.
 
 Credits
 - The base tag editing workflow and features are derived from:
